@@ -6,4 +6,4 @@ Guideline:
 - Biodiversity
 
 Packages:
-- ggplot
+- ggplot2
