@@ -1,12 +1,15 @@
 # 2020 Fall  NTHU STAT Biostatistical Data Analysis
-Guideline:
+
+## Guideline:
 - Causal inference
 - Mendelian Randomization
 - Spatial Statistics
 - Biodiversity
 
-Packages:
+## Programming Languages & IDE
+
+
+## Packages:
 - ggplot2
 
-Environment:
-- RStudio
+
