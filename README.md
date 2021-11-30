@@ -7,7 +7,7 @@
 - Biodiversity
 
 ## Programming Languages & IDE
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width=48px height=48px/>
 
 ## Packages:
 - ggplot2
